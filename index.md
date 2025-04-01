@@ -1,10 +1,9 @@
 # Rahul Soni  
-**Aspiring AI/ML Engineer**  
-
-Welcome to my portfolio! I'm a B.Tech (CSE) student with hands-on experience in Machine Learning and Generative AI.
-
-## About Me  
-I'm currently pursuing a minor in Machine Learning and Generative AI. My expertise includes developing predictive models, neural networks, and AI-driven applications using tools like Python, TensorFlow, and Scikit-learn.  
+Motivated and skilled B.Tech (CSE) student with a minor in Machine Learning and
+Generative AI. Proficient in C, C++, and Python, with hands-on experience in developing ML
+models and implementing AI solutions. Seeking an AI/ML internship to leverage my skills
+and contribute to cutting-edge projects.
+ 
 
 ## Projects  
 ### [House Price Prediction](https://github.com/rahulsoni/house-price-prediction)  
