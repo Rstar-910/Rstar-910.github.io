@@ -1,8 +1,5 @@
 # Rahul Soni  
-Motivated and skilled B.Tech (CSE) student with a minor in Machine Learning and
-Generative AI. Proficient in C, C++, and Python, with hands-on experience in developing ML
-models and implementing AI solutions. Seeking an AI/ML internship to leverage my skills
-and contribute to cutting-edge projects.
+Motivated and skilled B.Tech (CSE) student with a minor in Machine Learning and Generative AI. Proficient in C, C++, and Python, with hands-on experience in developing ML models and implementing AI solutions. Seeking an AI/ML internship to leverage my skills and contribute to cutting-edge projects.
  
 
 ## Projects  
